@@ -6,3 +6,4 @@ A basic Python CLI password manager. Save and view encrypted account passwords p
 
 ```bash
 python password_manager.py
+
